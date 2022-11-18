@@ -1,0 +1,4 @@
+timestamp,name,value
+1000, event0, 0.1
+1001, event1, 0.2
+1002, event2, 0.3

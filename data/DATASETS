@@ -1,0 +1,10 @@
+This contains a few small open source dataset used in the notebooks and referenced there.
+In particular:  
+The movielens dataset from Kaggle, credits: https://www.kaggle.com/grouplens/movielens-20m-dataset
+
+The online retail dataset from Kaggle, credits: https://www.kaggle.com/datasets/vijayuv/onlineretail
+
+The "California Housing Prices dataset" from the StatLib repository, originally featured in the following paper: Pace, R. Kelley, and Ronald Barry. "Sparse spatial autoregressions." Statistics & Probability Letters 33.3 (1997): 291-297.
+
+Data from the article https://arxiv.org/pdf/1402.4735.pdf by P. Baldi et al., distributed from the UCI Machine Learning Repository at archive.ics.uci.edu/ml/datasets/HIGGS
+
