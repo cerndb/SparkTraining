@@ -1,16 +1,19 @@
-# Training material for the course Introduction to Spark APIs for Data Processing
-
-**Course website with videos and slides: https://sparktraining.web.cern.ch/**  
+## Training material for the course "Introduction to Spark APIs for Data Processing"
 
 [![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/cerndb/SparkTraining.git)
 [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/cerndb/SparkTraining)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cerndb/SparkTraining/master)
-  
+
+### Course website with videos and slides: https://sparktraining.web.cern.ch/
+
 ## Contents
 
 - [Notebooks with tutorials and exercises](notebooks)
 - [Data used by the notebooks](data)
 - [Code examples in Scala and Python](code)
+
+See also the notebooks on display in the  [CERN SWAN Gallery](https://swan-gallery.web.cern.ch/apache_spark/)
+
 
 Contact: Luca.Canali@cern.ch   
 
@@ -36,6 +39,10 @@ Contact: Luca.Canali@cern.ch
 [Demo_Spark_on_Hadoop.ipynb](notebooks/Demo_Spark_on_Hadoop.ipynb)  
 [Demo_Dimuon_mass_spectrum.ipynb](notebooks/Demo_Dimuon_mass_spectrum.ipynb)    
 [NXCals-example.ipynb](notebooks/NXCals-example.ipynb)
+
+### Additional SWAN gallery notebooks
+[LHCb_OpenData_Spark.ipynb](notebooks/LHCb_OpenData_Spark.ipynb)  
+[Dimuon_Spark_ROOT_RDataFrame.ipynb](notebooks/Dimuon_Spark_ROOT_RDataFrame.ipynb)  
 
 ---
 ## How to run the notebooks from CERN SWAN Notebook Service
