@@ -22,7 +22,8 @@ Contact: Luca.Canali@cern.ch
 
 ### Session 1
 [Tutorial-DataFrame.ipynb](notebooks/Tutorial-DataFrame.ipynb)  
-[Solutions-DataFrame.ipynb](notebooks/Solutions-DataFrame.ipynb)
+[Solutions-DataFrame.ipynb](notebooks/Solutions-DataFrame.ipynb)  
+[Examples-Pandas on Spark](notebooks/Examples_Pandas_on_Spark.ipynb)
 
 ### Session 2
 [Tutorial-SparkSQL.ipynb](notebooks/Tutorial-SparkSQL.ipynb)  
