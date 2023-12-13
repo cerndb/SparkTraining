@@ -40,6 +40,7 @@ Contact: Luca.Canali@cern.ch
 [Demo_Spark_on_Hadoop.ipynb](notebooks/Demo_Spark_on_Hadoop.ipynb)  
 [Demo_Dimuon_mass_spectrum.ipynb](notebooks/Demo_Dimuon_mass_spectrum.ipynb)    
 [NXCals-example.ipynb](notebooks/NXCals-example.ipynb)
+[NXCals-example_bis.ipynb](notebooks/NXCals-example_bis.ipynb)
 
 ### Additional SWAN gallery notebooks
 [LHCb_OpenData_Spark.ipynb](notebooks/LHCb_OpenData_Spark.ipynb)  
