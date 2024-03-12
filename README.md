@@ -41,7 +41,8 @@ Contact: Luca.Canali@cern.ch
 [Demo_Dimuon_mass_spectrum.ipynb](notebooks/Demo_Dimuon_mass_spectrum.ipynb)    
 [NXCals-example.ipynb](notebooks/NXCals-example.ipynb)  
 [NXCals-example_bis.ipynb](notebooks/NXCals-example_bis.ipynb)  
-
+[TPCDS_PySpark_CERN_SWAN_getstarted.ipynb](notebooks/TPCDS_PySpark_CERN_SWAN_getstarted.ipynb)  
+  
 ### Additional SWAN gallery notebooks
 [LHCb_OpenData_Spark.ipynb](notebooks/LHCb_OpenData_Spark.ipynb)  
 [Dimuon_Spark_ROOT_RDataFrame.ipynb](notebooks/Dimuon_Spark_ROOT_RDataFrame.ipynb)  
@@ -65,3 +66,4 @@ Contact: Luca.Canali@cern.ch
 - Run the notebooks on Colab: [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/cerndb/SparkTraining)
   - With this option you will need also to download the data folder and pip install pyspark
 - Run on binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cerndb/SparkTraining/master)
+
