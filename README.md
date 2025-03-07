@@ -1,5 +1,6 @@
 ## Training material for the course "Introduction to Spark APIs for Data Processing"
 
+[![DOI](https://zenodo.org/badge/550234729.svg)](https://doi.org/10.5281/zenodo.14989474)
 [![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/cerndb/SparkTraining.git)
 [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/cerndb/SparkTraining)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cerndb/SparkTraining/master)
