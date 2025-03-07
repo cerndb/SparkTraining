@@ -3,6 +3,9 @@
 [![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/cerndb/SparkTraining.git)
 [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/cerndb/SparkTraining)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cerndb/SparkTraining/master)
+<a href="https://codespaces.new/cerndb/SparkTraining?devcontainer_path=.devcontainer%2FSparkTraining%2Fdevcontainer.json">
+  <img src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces" width="180">
+</a>
 
 ### Course website with videos and slides: https://sparktraining.web.cern.ch/
 
@@ -63,7 +66,9 @@ Contact: Luca.Canali@cern.ch
 - `git clone https://github.com/cerndb/SparkTraining` 
    - or clone the image at `https://gitlab.cern.ch/db/SparkTraining`
 - Start jupyter: `jupyter-notebook`
+- Run the notebooks on GitHub Codespaces: <a href="https://codespaces.new/cerndb/SparkTraining?devcontainer_path=.devcontainer%2FSparkTraining%2Fdevcontainer.json">
+  <img src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces" width="180"></a>
 - Run the notebooks on Colab: [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/cerndb/SparkTraining)
-  - With this option you will need also to download the data folder and pip install pyspark
+  - With this option you will need also to download the data folder and `pip install pyspark`
 - Run on binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cerndb/SparkTraining/master)
 
