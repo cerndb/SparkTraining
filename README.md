@@ -25,14 +25,14 @@ Contact: Luca.Canali@cern.ch
 ## Notebooks
 
 ### Session 1
-[Tutorial-DataFrame.ipynb](notebooks/Tutorial-DataFrame.ipynb)  
-[Solutions-DataFrame.ipynb](notebooks/Solutions-DataFrame.ipynb)  
-[Examples-Pandas on Spark](notebooks/Examples_Pandas_on_Spark.ipynb)
+[Tutorial-DataFrame.ipynb](notebooks/Tutorial-DataFrame.ipynb)   
+[Solutions-DataFrame.ipynb](notebooks/Solutions-DataFrame.ipynb)    
+[Examples-Pandas on Spark](notebooks/Examples_Pandas_on_Spark.ipynb)   
 
 ### Session 2
 [Tutorial-SparkSQL.ipynb](notebooks/Tutorial-SparkSQL.ipynb)  
 [HandsOn-SparkSQL_exercises.ipynb](notebooks/HandsOn-SparkSQL_exercises.ipynb)  
-[HandsOn-SparkSQL_with_solutions.ipynb](notebooks/HandsOn-SparkSQL_with_solutions.ipynb)    
+[HandsOn-SparkSQL_with_solutions.ipynb](notebooks/HandsOn-SparkSQL_with_solutions.ipynb)   
 
 ### Session 3
 [Tutorial-SparkStreaming.ipynb](notebooks/Tutorial-SparkStreaming.ipynb)  
@@ -41,15 +41,15 @@ Contact: Luca.Canali@cern.ch
 [Spark_JDBC_Oracle.ipynb](notebooks/Spark_JDBC_Oracle.ipynb)  
 
 ### Session 4
-[Demo_Spark_on_Hadoop.ipynb](notebooks/Demo_Spark_on_Hadoop.ipynb)  
-[Demo_Dimuon_mass_spectrum.ipynb](notebooks/Demo_Dimuon_mass_spectrum.ipynb)    
-[NXCals-example.ipynb](notebooks/NXCals-example.ipynb)  
+[Demo_Spark_on_Hadoop.ipynb](notebooks/Demo_Spark_on_Hadoop.ipynb)   
+[Demo_Dimuon_mass_spectrum.ipynb](notebooks/Demo_Dimuon_mass_spectrum.ipynb)   
+[NXCals-example.ipynb](notebooks/NXCals-example.ipynb)   
 [NXCals-example_bis.ipynb](notebooks/NXCals-example_bis.ipynb)  
 [TPCDS_PySpark_CERN_SWAN_getstarted.ipynb](notebooks/TPCDS_PySpark_CERN_SWAN_getstarted.ipynb)  
   
 ### Additional SWAN gallery notebooks
-[LHCb_OpenData_Spark.ipynb](notebooks/LHCb_OpenData_Spark.ipynb)  
-[Dimuon_Spark_ROOT_RDataFrame.ipynb](notebooks/Dimuon_Spark_ROOT_RDataFrame.ipynb)  
+[LHCb_OpenData_Spark.ipynb](notebooks/LHCb_OpenData_Spark.ipynb)   
+[Dimuon_Spark_ROOT_RDataFrame.ipynb](notebooks/Dimuon_Spark_ROOT_RDataFrame.ipynb)   
 
 ---
 ## How to run the notebooks from CERN SWAN Notebook Service
